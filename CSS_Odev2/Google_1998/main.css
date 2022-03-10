@@ -1,0 +1,117 @@
+.container-main {
+  width: 1600px;
+  height: 300px;
+  margin: auto;
+}
+
+.container-logo {
+  height: 120px;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+.container-search {
+  background-color: #eeeeee;
+  height: 80px;
+  margin-bottom: 2px;
+}
+
+.container-triple {
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.container-left {
+  background-color: #7ee5da;
+  float: left;
+  height: 100%;
+  width: 595px;
+  margin-right: 1px;
+}
+
+.container-mid {
+  background-color: #70ccc2;
+  float: left;
+  height: 100%;
+  width: 335px;
+  margin-left: 1px;
+  margin-right: 1px;
+}
+
+.container-right {
+  background-color: #62b3aa;
+  float: left;
+  height: 100%;
+  width: 666px;
+  margin-left: 1px;
+}
+
+.container-bottom {
+  height: 30px;
+}
+
+#copyright {
+  margin-top: 20px;
+  text-align: center;
+  font-size: small;
+}
+
+p {
+  text-align: center;
+  margin: 0%;
+}
+
+#button1 {
+  position: absolute;
+  left: 42%;
+}
+
+#button2 {
+  position: absolute;
+  left: 50%;
+}
+
+input {
+  position: relative;
+  left: 37%;
+  margin-top: 2px;
+}
+
+.container-mid > a {
+  position: absolute;
+  color: blue;
+  font-size: small;
+  left: 45%;
+}
+
+.container-left > a {
+  position: absolute;
+  color: blue;
+  left: 300px;
+}
+.container-right > a {
+  position: absolute;
+  left: 78%;
+  color: blue;
+  font-size: small;
+  margin-top: 10px;
+}
+
+.container-right > p {
+  display: block;
+  margin: 0%;
+  font-size: small;
+}
+
+.container-right > input {
+  position: absolute;
+  left: 70%;
+}
+.container-right > button {
+  position: absolute;
+  left: 71%;
+  margin-top: 7px;
+}
