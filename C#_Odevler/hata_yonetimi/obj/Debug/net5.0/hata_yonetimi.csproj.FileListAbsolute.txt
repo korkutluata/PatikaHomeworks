@@ -1,0 +1,16 @@
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\hata_yonetimi\bin\Debug\net5.0\hata_yonetimi.exe
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\hata_yonetimi\bin\Debug\net5.0\hata_yonetimi.deps.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\hata_yonetimi\bin\Debug\net5.0\hata_yonetimi.runtimeconfig.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\hata_yonetimi\bin\Debug\net5.0\hata_yonetimi.runtimeconfig.dev.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\hata_yonetimi\bin\Debug\net5.0\hata_yonetimi.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\hata_yonetimi\bin\Debug\net5.0\ref\hata_yonetimi.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\hata_yonetimi\bin\Debug\net5.0\hata_yonetimi.pdb
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.csproj.AssemblyReference.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.AssemblyInfoInputs.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.AssemblyInfo.cs
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\hata_yonetimi\obj\Debug\net5.0\ref\hata_yonetimi.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.pdb
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.genruntimeconfig.cache
