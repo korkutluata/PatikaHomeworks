@@ -1,0 +1,15 @@
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\switch_Case\bin\Debug\net6.0\switch_Case.exe
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\switch_Case\bin\Debug\net6.0\switch_Case.deps.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\switch_Case\bin\Debug\net6.0\switch_Case.runtimeconfig.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\switch_Case\bin\Debug\net6.0\switch_Case.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\switch_Case\bin\Debug\net6.0\ref\switch_Case.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\switch_Case\bin\Debug\net6.0\switch_Case.pdb
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\switch_Case\obj\Debug\net6.0\switch_Case.csproj.AssemblyReference.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\switch_Case\obj\Debug\net6.0\switch_Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\switch_Case\obj\Debug\net6.0\switch_Case.AssemblyInfoInputs.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\switch_Case\obj\Debug\net6.0\switch_Case.AssemblyInfo.cs
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\switch_Case\obj\Debug\net6.0\switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\switch_Case\obj\Debug\net6.0\switch_Case.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\switch_Case\obj\Debug\net6.0\ref\switch_Case.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\switch_Case\obj\Debug\net6.0\switch_Case.pdb
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\switch_Case\obj\Debug\net6.0\switch_Case.genruntimeconfig.cache
