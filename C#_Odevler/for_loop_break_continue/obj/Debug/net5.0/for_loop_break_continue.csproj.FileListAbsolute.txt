@@ -1,0 +1,16 @@
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\for_loop_break_continue\bin\Debug\net5.0\for_loop_break_continue.exe
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\for_loop_break_continue\bin\Debug\net5.0\for_loop_break_continue.deps.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\for_loop_break_continue\bin\Debug\net5.0\for_loop_break_continue.runtimeconfig.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\for_loop_break_continue\bin\Debug\net5.0\for_loop_break_continue.runtimeconfig.dev.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\for_loop_break_continue\bin\Debug\net5.0\for_loop_break_continue.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\for_loop_break_continue\bin\Debug\net5.0\ref\for_loop_break_continue.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\for_loop_break_continue\bin\Debug\net5.0\for_loop_break_continue.pdb
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\for_loop_break_continue\obj\Debug\net5.0\for_loop_break_continue.csproj.AssemblyReference.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\for_loop_break_continue\obj\Debug\net5.0\for_loop_break_continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\for_loop_break_continue\obj\Debug\net5.0\for_loop_break_continue.AssemblyInfoInputs.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\for_loop_break_continue\obj\Debug\net5.0\for_loop_break_continue.AssemblyInfo.cs
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\for_loop_break_continue\obj\Debug\net5.0\for_loop_break_continue.csproj.CoreCompileInputs.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\for_loop_break_continue\obj\Debug\net5.0\for_loop_break_continue.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\for_loop_break_continue\obj\Debug\net5.0\ref\for_loop_break_continue.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\for_loop_break_continue\obj\Debug\net5.0\for_loop_break_continue.pdb
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\for_loop_break_continue\obj\Debug\net5.0\for_loop_break_continue.genruntimeconfig.cache
