@@ -1,0 +1,16 @@
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\while_foreach\bin\Debug\net5.0\while_foreach.exe
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\while_foreach\bin\Debug\net5.0\while_foreach.deps.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\while_foreach\bin\Debug\net5.0\while_foreach.runtimeconfig.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\while_foreach\bin\Debug\net5.0\while_foreach.runtimeconfig.dev.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\while_foreach\bin\Debug\net5.0\while_foreach.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\while_foreach\bin\Debug\net5.0\ref\while_foreach.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\while_foreach\bin\Debug\net5.0\while_foreach.pdb
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\while_foreach\obj\Debug\net5.0\while_foreach.csproj.AssemblyReference.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\while_foreach\obj\Debug\net5.0\while_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\while_foreach\obj\Debug\net5.0\while_foreach.AssemblyInfoInputs.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\while_foreach\obj\Debug\net5.0\while_foreach.AssemblyInfo.cs
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\while_foreach\obj\Debug\net5.0\while_foreach.csproj.CoreCompileInputs.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\while_foreach\obj\Debug\net5.0\while_foreach.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\while_foreach\obj\Debug\net5.0\ref\while_foreach.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\while_foreach\obj\Debug\net5.0\while_foreach.pdb
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\while_foreach\obj\Debug\net5.0\while_foreach.genruntimeconfig.cache
