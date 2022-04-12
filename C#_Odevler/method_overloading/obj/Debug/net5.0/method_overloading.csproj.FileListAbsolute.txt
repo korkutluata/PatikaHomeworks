@@ -1,0 +1,16 @@
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\method_overloading\bin\Debug\net5.0\method_overloading.exe
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\method_overloading\bin\Debug\net5.0\method_overloading.deps.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\method_overloading\bin\Debug\net5.0\method_overloading.runtimeconfig.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\method_overloading\bin\Debug\net5.0\method_overloading.runtimeconfig.dev.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\method_overloading\bin\Debug\net5.0\method_overloading.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\method_overloading\bin\Debug\net5.0\ref\method_overloading.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\method_overloading\bin\Debug\net5.0\method_overloading.pdb
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\method_overloading\obj\Debug\net5.0\method_overloading.csproj.AssemblyReference.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\method_overloading\obj\Debug\net5.0\method_overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\method_overloading\obj\Debug\net5.0\method_overloading.AssemblyInfoInputs.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\method_overloading\obj\Debug\net5.0\method_overloading.AssemblyInfo.cs
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\method_overloading\obj\Debug\net5.0\method_overloading.csproj.CoreCompileInputs.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\method_overloading\obj\Debug\net5.0\method_overloading.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\method_overloading\obj\Debug\net5.0\ref\method_overloading.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\method_overloading\obj\Debug\net5.0\method_overloading.pdb
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\method_overloading\obj\Debug\net5.0\method_overloading.genruntimeconfig.cache
