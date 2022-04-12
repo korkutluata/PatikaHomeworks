@@ -1,0 +1,16 @@
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\metotlar\bin\Debug\net5.0\metotlar.exe
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\metotlar\bin\Debug\net5.0\metotlar.deps.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\metotlar\bin\Debug\net5.0\metotlar.runtimeconfig.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\metotlar\bin\Debug\net5.0\metotlar.runtimeconfig.dev.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\metotlar\bin\Debug\net5.0\metotlar.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\metotlar\bin\Debug\net5.0\ref\metotlar.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\metotlar\bin\Debug\net5.0\metotlar.pdb
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\metotlar\obj\Debug\net5.0\metotlar.csproj.AssemblyReference.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\metotlar\obj\Debug\net5.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\metotlar\obj\Debug\net5.0\metotlar.AssemblyInfoInputs.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\metotlar\obj\Debug\net5.0\metotlar.AssemblyInfo.cs
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\metotlar\obj\Debug\net5.0\metotlar.csproj.CoreCompileInputs.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\metotlar\obj\Debug\net5.0\metotlar.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\metotlar\obj\Debug\net5.0\ref\metotlar.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\metotlar\obj\Debug\net5.0\metotlar.pdb
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\metotlar\obj\Debug\net5.0\metotlar.genruntimeconfig.cache
