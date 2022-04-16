@@ -1,0 +1,16 @@
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\Datetime_Math_Metotlar\bin\Debug\net5.0\Datetime_Math_Metotlar.exe
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\Datetime_Math_Metotlar\bin\Debug\net5.0\Datetime_Math_Metotlar.deps.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\Datetime_Math_Metotlar\bin\Debug\net5.0\Datetime_Math_Metotlar.runtimeconfig.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\Datetime_Math_Metotlar\bin\Debug\net5.0\Datetime_Math_Metotlar.runtimeconfig.dev.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\Datetime_Math_Metotlar\bin\Debug\net5.0\Datetime_Math_Metotlar.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\Datetime_Math_Metotlar\bin\Debug\net5.0\ref\Datetime_Math_Metotlar.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\Datetime_Math_Metotlar\bin\Debug\net5.0\Datetime_Math_Metotlar.pdb
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\Datetime_Math_Metotlar\obj\Debug\net5.0\Datetime_Math_Metotlar.csproj.AssemblyReference.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\Datetime_Math_Metotlar\obj\Debug\net5.0\Datetime_Math_Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\Datetime_Math_Metotlar\obj\Debug\net5.0\Datetime_Math_Metotlar.AssemblyInfoInputs.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\Datetime_Math_Metotlar\obj\Debug\net5.0\Datetime_Math_Metotlar.AssemblyInfo.cs
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\Datetime_Math_Metotlar\obj\Debug\net5.0\Datetime_Math_Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\Datetime_Math_Metotlar\obj\Debug\net5.0\Datetime_Math_Metotlar.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\Datetime_Math_Metotlar\obj\Debug\net5.0\ref\Datetime_Math_Metotlar.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\Datetime_Math_Metotlar\obj\Debug\net5.0\Datetime_Math_Metotlar.pdb
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\Datetime_Math_Metotlar\obj\Debug\net5.0\Datetime_Math_Metotlar.genruntimeconfig.cache
