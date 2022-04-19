@@ -1,0 +1,16 @@
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\StaticClass\bin\Debug\net5.0\StaticClass.exe
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\StaticClass\bin\Debug\net5.0\StaticClass.deps.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\StaticClass\bin\Debug\net5.0\StaticClass.runtimeconfig.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\StaticClass\bin\Debug\net5.0\StaticClass.runtimeconfig.dev.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\StaticClass\bin\Debug\net5.0\StaticClass.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\StaticClass\bin\Debug\net5.0\ref\StaticClass.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\StaticClass\bin\Debug\net5.0\StaticClass.pdb
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\StaticClass\obj\Debug\net5.0\StaticClass.csproj.AssemblyReference.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\StaticClass\obj\Debug\net5.0\StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\StaticClass\obj\Debug\net5.0\StaticClass.AssemblyInfoInputs.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\StaticClass\obj\Debug\net5.0\StaticClass.AssemblyInfo.cs
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\StaticClass\obj\Debug\net5.0\StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\StaticClass\obj\Debug\net5.0\StaticClass.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\StaticClass\obj\Debug\net5.0\ref\StaticClass.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\StaticClass\obj\Debug\net5.0\StaticClass.pdb
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\StaticClass\obj\Debug\net5.0\StaticClass.genruntimeconfig.cache
