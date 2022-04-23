@@ -1,0 +1,16 @@
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\interface_ornek_otomobil\bin\Debug\net5.0\interface_ornek_otomobil.exe
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\interface_ornek_otomobil\bin\Debug\net5.0\interface_ornek_otomobil.deps.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\interface_ornek_otomobil\bin\Debug\net5.0\interface_ornek_otomobil.runtimeconfig.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\interface_ornek_otomobil\bin\Debug\net5.0\interface_ornek_otomobil.runtimeconfig.dev.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\interface_ornek_otomobil\bin\Debug\net5.0\interface_ornek_otomobil.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\interface_ornek_otomobil\bin\Debug\net5.0\ref\interface_ornek_otomobil.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\interface_ornek_otomobil\bin\Debug\net5.0\interface_ornek_otomobil.pdb
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\interface_ornek_otomobil\obj\Debug\net5.0\interface_ornek_otomobil.csproj.AssemblyReference.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\interface_ornek_otomobil\obj\Debug\net5.0\interface_ornek_otomobil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\interface_ornek_otomobil\obj\Debug\net5.0\interface_ornek_otomobil.AssemblyInfoInputs.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\interface_ornek_otomobil\obj\Debug\net5.0\interface_ornek_otomobil.AssemblyInfo.cs
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\interface_ornek_otomobil\obj\Debug\net5.0\interface_ornek_otomobil.csproj.CoreCompileInputs.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\interface_ornek_otomobil\obj\Debug\net5.0\interface_ornek_otomobil.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\interface_ornek_otomobil\obj\Debug\net5.0\ref\interface_ornek_otomobil.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\interface_ornek_otomobil\obj\Debug\net5.0\interface_ornek_otomobil.pdb
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\interface_ornek_otomobil\obj\Debug\net5.0\interface_ornek_otomobil.genruntimeconfig.cache
