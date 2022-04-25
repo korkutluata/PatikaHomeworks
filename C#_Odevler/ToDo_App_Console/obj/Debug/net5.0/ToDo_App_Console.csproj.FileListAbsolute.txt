@@ -1,0 +1,16 @@
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\ToDo_App_Console\bin\Debug\net5.0\ToDo_App_Console.exe
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\ToDo_App_Console\bin\Debug\net5.0\ToDo_App_Console.deps.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\ToDo_App_Console\bin\Debug\net5.0\ToDo_App_Console.runtimeconfig.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\ToDo_App_Console\bin\Debug\net5.0\ToDo_App_Console.runtimeconfig.dev.json
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\ToDo_App_Console\bin\Debug\net5.0\ToDo_App_Console.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\ToDo_App_Console\bin\Debug\net5.0\ref\ToDo_App_Console.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\ToDo_App_Console\bin\Debug\net5.0\ToDo_App_Console.pdb
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\ToDo_App_Console\obj\Debug\net5.0\ToDo_App_Console.csproj.AssemblyReference.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\ToDo_App_Console\obj\Debug\net5.0\ToDo_App_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\ToDo_App_Console\obj\Debug\net5.0\ToDo_App_Console.AssemblyInfoInputs.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\ToDo_App_Console\obj\Debug\net5.0\ToDo_App_Console.AssemblyInfo.cs
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\ToDo_App_Console\obj\Debug\net5.0\ToDo_App_Console.csproj.CoreCompileInputs.cache
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\ToDo_App_Console\obj\Debug\net5.0\ToDo_App_Console.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\ToDo_App_Console\obj\Debug\net5.0\ref\ToDo_App_Console.dll
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\ToDo_App_Console\obj\Debug\net5.0\ToDo_App_Console.pdb
+C:\Users\korku\Desktop\SitesPatika\C#_101_Net_Baslangic\ToDo_App_Console\obj\Debug\net5.0\ToDo_App_Console.genruntimeconfig.cache
